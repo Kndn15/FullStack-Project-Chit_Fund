@@ -1,0 +1,24 @@
+# 🛡️ Sensitive environment config
+.env
+
+# ⚙️ Node.js dependencies
+node_modules/
+package-lock.json
+
+# 📦 Build outputs
+dist/
+build/
+
+# 💥 Logs
+logs/
+*.log
+
+# 💻 OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 🚫 Temporary files
+*.tmp
+*.swp
